@@ -7,20 +7,22 @@ CS Fundamentals in Python
 
 Steps for your particular use case:
 
-### macOS
-- Install Docker
-
-### Chromebook
-- google chrome developer tools
+#### Username
+- Find a unique username that is available across all relevant services.
 
 #### Create the following free accounts
 - gmail.com
 - github.com
+
+#### Chromebook (Pick One)
 - repl.it
 - stackblitz.com
 - glitch.com
 
 ### Windows
+- Install Docker
+
+### macOS
 - Install Docker
 
 ## Programming Concepts (10 pts)
