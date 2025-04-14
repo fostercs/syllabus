@@ -26,10 +26,6 @@ Steps for your particular use case:
 - Install Docker
 
 ## Programming Concepts (10 pts)
-- Run Python in a Docker Container locally
-```
-docker run -it python:3.8
-```
 
 ## Problem Solving
 - [Daily Warmups](https://github.com/fostercs/JS101/blob/main/101%2Fwarmup.js)
@@ -90,6 +86,11 @@ docker run -it python:3.8
 ### Assessment
 - Weekly contests to gauge conceptual understanding and problem-solving abilities
 - Particular focus on complex topics like Dynamic Programming and Graphs (e.g., traversals, shortest paths, etc.)
+
+#### Run Python in a Docker Container locally
+```
+docker run -it python:3.8
+```
 
 # Programming Languages
 
