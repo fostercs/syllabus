@@ -1,28 +1,28 @@
-# Welcome to JS 101
+# JS 101
 
-## Syllabus
+## Summary
 CS Fundamentals in JS
 
 ## Getting Started
 
-Steps for your particular use case:
-
-#### Username
+### Username
 - Find a unique username that is available across all relevant services.
 
 #### Create the following free accounts
 - gmail.com
 - github.com
 
+### localhost
+
 #### Chromebook (Pick One)
 - repl.it
 - stackblitz.com
 - glitch.com
 
-### Windows
+#### Windows
 - Install Docker
 
-### macOS
+#### macOS
 - Install Docker
 
 ## Programming Concepts (10 pts)
@@ -65,6 +65,10 @@ Steps for your particular use case:
 - [Largest num in array](https://github.com/fostercs/JS101/blob/main/assessments/largest-number-in-array.js)
 - [Is a palindrome](https://github.com/fostercs/JS101/blob/main/puzzles/is-a-palindrome.md)
 - [Largest branch in binary tree](https://github.com/fostercs/JS101/tree/main/assessments/binary-tree-largest-branch)
+
+# Docker 101
+
+[Install Docker - Start Here](https://github.com/fostercs/docker101)
 
 ## OSI
 - Physical Layer
