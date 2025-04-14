@@ -1,4 +1,4 @@
-# Welcome to WEB3 101
+# Welcome to JS 101
 
 ## Syllabus
 CS Fundamentals in Python
