@@ -1,7 +1,7 @@
 # Welcome to JS 101
 
 ## Syllabus
-CS Fundamentals in Python
+CS Fundamentals in JS
 
 ## Getting Started
 
